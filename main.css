@@ -1,0 +1,45 @@
+main {
+  padding-top: 100px;
+}
+
+main .row {
+  margin-bottom: 20px;
+}
+img {
+  height: 200px;
+  width: 200px;
+}
+
+.card {
+  height: 300px;
+  text-align: center;
+  padding-top: 30px;
+}
+
+.img-1, .img-2, .img-3, .img-4, .img-5, .img-6, {
+  background-size: contain;
+}
+
+.img-1 {
+  background: url("images/yoda_square.png") no-repeat center center;
+}
+
+.img-2 {
+  background: url("images/yoda_square.png") no-repeat center center;
+}
+
+.img-3 {
+  background: url("images/yoda_square.png") no-repeat center center;
+}
+
+.img-4 {
+  background: url("images/yoda_square.png") no-repeat center center;
+}
+
+.img-5 {
+  background: url("images/yoda_square.png") no-repeat center center;
+}
+
+.img-6 {
+  background: url("images/yoda_square.png") no-repeat center center;
+}
