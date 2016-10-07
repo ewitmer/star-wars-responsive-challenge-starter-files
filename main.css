@@ -16,30 +16,38 @@ img {
   padding-top: 30px;
 }
 
+/*
 .img-1, .img-2, .img-3, .img-4, .img-5, .img-6, {
-  background-size: contain;
+  background-size: cover;
 }
+*/
 
 .img-1 {
-  background: url("images/yoda_square.png") no-repeat center center;
+  background: url("images/rey_square.png") no-repeat center center;
+  background-size: cover;
 }
 
 .img-2 {
-  background: url("images/yoda_square.png") no-repeat center center;
+  background: url("images/finn_square.png") no-repeat center center;
+  background-size: cover;
 }
 
 .img-3 {
-  background: url("images/yoda_square.png") no-repeat center center;
+  background: url("images/kylo_square.png") no-repeat center center;
+  background-size: cover;
 }
 
 .img-4 {
-  background: url("images/yoda_square.png") no-repeat center center;
+  background: url("images/poe_square.png") no-repeat center center;
+  background-size: cover;
 }
 
 .img-5 {
-  background: url("images/yoda_square.png") no-repeat center center;
+  background: url("images/chewbacca_square.png") no-repeat center center;
+  background-size: cover;
 }
 
 .img-6 {
   background: url("images/yoda_square.png") no-repeat center center;
+  background-size: cover;
 }
