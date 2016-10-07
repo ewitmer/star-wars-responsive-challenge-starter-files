@@ -1,3 +1,7 @@
+nav {
+  background-color: orange;
+}
+
 main {
   padding-top: 100px;
 }
@@ -5,25 +9,23 @@ main {
 main .row {
   margin-bottom: 20px;
 }
-img {
-  height: 200px;
-  width: 200px;
-}
+
 
 .card {
   height: 300px;
   text-align: center;
   padding-top: 30px;
+  border: 1px solid silver;
 }
 
-/*
-.img-1, .img-2, .img-3, .img-4, .img-5, .img-6, {
-  background-size: cover;
+.name {
+  border: 1px solid silver;
+  padding: 0px 10px 0px 10px;
+  margin-bottom: 10px;
 }
-*/
 
 .img-1 {
-  background: url("images/rey_square.png") no-repeat center center;
+  background: url("images/rey_square.png");
   background-size: cover;
 }
 
